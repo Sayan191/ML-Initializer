@@ -47,10 +47,9 @@ HTML5
 ## Walkthrough
 
 ### 1. Select the Approach
-
 <p align="center">
-<img src="./resources/img/screens/screen1.png" alt="screen1" height="520"/>
-<p>
+  Choose any model type <b>Reggression</b> or <b>Clarification</b> 
+</p>
  
 ### 2. Configure
 
