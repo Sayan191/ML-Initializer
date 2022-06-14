@@ -63,5 +63,3 @@ HTML5
 <img src="./resources/img/screens/screen3.png" alt="screen3" height="720"/>
 <p>
 
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakashp1712%2Fpythonizr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakashp1712%2Fpythonizr?ref=badge_large)
